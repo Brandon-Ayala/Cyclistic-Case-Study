@@ -148,7 +148,7 @@ Divvy <- rbind(Jan_2022_Divvy, Feb_2022_Divvy, March_2022_Divvy,
 colSums(is.na(Divvy))
 ```
 
-![image](Visualizations\colsums_is_na.png)
+<img src="Visualizations\colsums_is_na.png">
 
 ```
 # Check the number of rows with NA values
@@ -156,7 +156,7 @@ colSums(is.na(Divvy))
 sum(!complete.cases(Divvy))
 ```
 
-![image](Visualizations\sum_incomplete_observations.png)
+<img src="Visualizations\sum_incomplete_observations.png">
 
 ```
 # Create new dataframe with rows removed that have NA values
