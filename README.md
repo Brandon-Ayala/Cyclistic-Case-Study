@@ -1,3 +1,5 @@
+## A Cyclistic Case Study using Excel and R (RStudio)
+
 # Table of Contents
 
 1. [Who is Cyclistic?](#who)
